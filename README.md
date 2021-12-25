@@ -1,5 +1,5 @@
 # MeArm-key Valet-storage System
-#Valet key storage system - prototype 
+# Valet key storage system - prototype 
 
 #### This was a simple console command line interface that I worked on using python and arduino
                                                                                                             
