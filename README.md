@@ -7,10 +7,10 @@
 # Me arm 
 ![image](https://user-images.githubusercontent.com/73062879/147391815-22aefb56-a59e-4c6c-8c2b-fcc4f9f28c8c.png)
 
-#Arduino Board
+# Arduino Board
 ![image](https://user-images.githubusercontent.com/73062879/147391828-989f92d5-0653-4d12-806c-0b1a0958058a.png)
 
-#jumper wires 
+# jumper wires 
 ![image](https://user-images.githubusercontent.com/73062879/147391840-599d8339-2369-4176-9d12-b9882442e3c6.png)
 
 
