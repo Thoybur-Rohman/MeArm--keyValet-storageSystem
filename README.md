@@ -3,7 +3,7 @@
 
 #### This was a simple console command line interface that I worked on using python and arduino
                                                                                                             
-## Waht is needed to run 
+## What is needed to run 
 # Me arm 
 ![image](https://user-images.githubusercontent.com/73062879/147391815-22aefb56-a59e-4c6c-8c2b-fcc4f9f28c8c.png)
 
